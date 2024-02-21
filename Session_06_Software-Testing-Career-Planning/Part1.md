@@ -1,0 +1,21 @@
+#### The below is the plan for a better Software Testing Career:
+
+- Start with learning of **Manual Testing**
+- Next go for **Selenium Java** Automation
+- Then learn **Appium** for automation Mobile Applications
+- Learn **UFT** for automating Desktop Applications
+- Learn API/Web Services Automation with **Rest Assured Framework**
+- Learn Automating Angular JS Applications with **Protractor** Tool
+- Learn **Performance Testing** using **JMeter** or LoadRunner
+- Learn **Security Testing** using BurpSuite tool and also manual way
+- Add-on Learnings
+  - Learn **Test Management** Tools like Test Rail or ALM etc.
+  - Learn **SQL** and **DB Testing**
+  - Learn **Linux Commands**
+  - Learn **DevOps**
+  - Learning **Agile** Methodologies and Practices
+  - Learn Future trends of Testing like IOT, AI, Machine Learning etc. in testing perspective
+  - Learning different popular Programming Languages like **Python**, C#, JavaScript etc.
+  - Learning latest Test Automation Tools
+- Never stop learning and continuously learn new things
+- Invest in Yourself
